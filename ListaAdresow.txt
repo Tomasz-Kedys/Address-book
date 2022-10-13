@@ -1,0 +1,31 @@
+1|Tomasz|Kedys|500 477 358|kedystomasz@gmail.com|ul.Inzynierska 58/40; 53-230 Breslau|
+2|Sarra|Kedys|535 082 117|Sar@gmail.com|ul.Jarocinska 29/5; 04-160 Warsaw|
+3|Victor|Kedys|666 666 666|Gucio@gmail.com|ul.Inzynierska 58/40; 53-230 Vroclav|
+4|Artur|Nowak|333 222 111|artur@nowak.pl|ul. Wesola 3a; 33-300 Krakow|
+5|Bartek|Glowacki|333 222 111|bartek@glowacki.pl|ul. Sloneczna 61; 33-330 Krakow|
+6|Agata|Wisniewska|444 222 111|agata@wisniewska.pl|ul. Piekna 7/8; 33-300 Krakow|
+7|Katarzyna|Klos|333 999 111|katarzyna@klos.pl|ul. Wysoka 98; 33-330 Krakow|
+8|ghj|fg|df|rtr|yu|
+9|yu|yu|yu|yu|yu|
+10|ghj|fg|df|rtr|yu|
+11|tom|sd|dffg|dfgd fdgdfdfg|dfgdgdfggfdfgfdgdfgdfgdgf|
+12|gh|hg|hg|hj|jk|
+13|yu|yu|yu|yu|yu|
+14|yu|yu|yu|yu|yu|
+15|yu|yu|yu|yu|yu|
+16|yu|yu|yu|yu|yu|
+17|yu|yu|yu|yu|yu|
+18|yu|yu|yu|yu|yu|
+19|yu|yu|yu|yu|yu|
+20|yu|yu|yu|yu|yu|
+21|yu|yu|yu|yu|yu|
+22|yu|yu|yu|yu|yu|
+23|yu|yu|yu|yu|yu|
+24|yu|yu|yu|yu|yu|
+25|yu|yu|yu|yu|yu|
+26|yu|yu|yu|yu|yu|
+27|yu|yu|yu|yu|yu|
+28|yu|yu|yu|yu|yu|
+29|hgfg|ig|hgik|jhvgjh|high|
+30|ytdf|lhgfyt|uygfi]]|gytif|iytfrc|
+31|ytdt|kufgvf|kgvffc|khjgv|khjgvkc|

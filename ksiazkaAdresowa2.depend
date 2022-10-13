@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1659799028 source:f:\programy\c++\ksiazkaadresowa2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+
+1664209424 source:d:\programy\c++\ksiazkaadresowa2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<string>
+	<iomanip>
+
+1663420822 source:c:\users\karas\desktop\programy\c++\ksiazkaadresowa2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<string>
+	<iomanip>
+

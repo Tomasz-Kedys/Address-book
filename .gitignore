@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Backup files
+backup.txt
+ksiazkaAdresowa2Kod.txt
+Rozwiązanie Artura.txt
+zmianaFormatuDanych.txt
